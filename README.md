@@ -4,7 +4,7 @@ Hi 👋 My name is Gastón Artaza Yañez
 Developer. Social Worker
 ------------------------
 
-I'm a Full Stack Developer. Nowadays I'm doing a bootcamp at Isdi Coders Academy.
+I'm a Full Stack Developer. Nowadays I'm doing a coding bootcamp at Isdi Coders Academy.
 
 * 🌍  I'm based in Barcelona Spain
 * ✉️  You can contact me at [artazayanezgaston@gmail.com](mailto:artazayanezgaston@gmail.com)
